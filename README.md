@@ -2,4 +2,4 @@
 
 Selam arkadaşlar, yasin arkadaşımızın kullandığı welcome botlarını paylaşıyorum.
 
-# 30 star, 10 fork 'De
+# 10 star, 5 fork 'De
