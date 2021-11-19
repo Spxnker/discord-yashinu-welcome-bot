@@ -1,4 +1,4 @@
-# 20 star, 10 fork 'De
+# 20 star, 10 fork 'De Yayınlanacaktır.
 
 # Yashinu Welcome Bots
 
