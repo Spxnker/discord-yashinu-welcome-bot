@@ -12,7 +12,7 @@ Selam arkadaşlar, yasin arkadaşımızın kullandığı welcome botlarını pay
 
 # İletişim 
 
-Spanker#7730
+spxnker#7730
 
 # 20 star, 10 fork 'De
 
