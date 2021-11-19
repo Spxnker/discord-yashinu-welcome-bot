@@ -10,4 +10,4 @@ Selam arkadaşlar, yasin arkadaşımızın kullandığı welcome botlarını pay
 ###### Sesten asla düşmemesi
 ###### Bağlantısını kesilmiyor. Kimse mikrafonunu kapatamıyor.
 
-# 10 star, 5 fork 'De
+# 20 star, 10 fork 'De
