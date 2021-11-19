@@ -10,4 +10,10 @@ Selam arkadaşlar, yasin arkadaşımızın kullandığı welcome botlarını pay
 ###### Sesten asla düşmemesi
 ###### Bağlantısını kesilmiyor. Kimse mikrafonunu kapatamıyor.
 
+# İletişim 
+
+Spanker#7730
+
 # 20 star, 10 fork 'De
+
+
