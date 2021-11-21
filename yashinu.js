@@ -8,7 +8,6 @@ client.on("ready", async () => {
     client.user.setPresence({ activity: { name: "Poseidon ❤️ Yashinu" }, status: "idle" });
     let botVoiceChannel = client.channels.cache.get(ayarlar.botVoicebotVoiceChannelID);
     if (botVoiceChannel) botVoiceChannel.join().catch(err => console.error("Bot ses kanalına bağlanamadı!"));
-
     setInterval(() => {
         setWelcomeLogin();
 }, 1000*60*60*1);
